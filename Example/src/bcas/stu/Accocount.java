@@ -19,14 +19,14 @@ public class Accocount {
 
 		if (balance > amount) {
 
-			System.out.println("your amount withrowaal ");
+			System.out.println("Your amount withrowaal ");
 			balance = balance - amount;
-			System.out.println("now your balance = "+balance);
+			System.out.println("Now your balance = "+balance);
 		}
 
 		else {
 
-			System.out.println("plz update your account balance");
+			System.out.println("Plz update your account balance");
 
 		}
 
@@ -39,10 +39,10 @@ public class Accocount {
 		
 		Scanner get = new Scanner(System.in);
 
-		System.out.println("type your balance ");
+		System.out.println("Type your balance ");
 		balance = get.nextDouble();
 
-		System.out.println("type your amount to want ");
+		System.out.println("Type your amount to want ");
 		amount = get.nextDouble();
 
 		acc1.setResult();
