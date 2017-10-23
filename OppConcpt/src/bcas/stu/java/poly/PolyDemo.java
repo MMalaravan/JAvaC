@@ -32,3 +32,15 @@ public class PolyDemo {
 		}
 	}
 
+
+//Output
+//....................................
+//Drow Diagram !
+//Drow Circle of 10radious !
+//Drow square of 20 width and 30height  !
+//Drow traiangle with bases of 10 , 15 and 20.0  !
+//....................................
+//Drow Diagram !
+//Drow Circle of 10radious !
+//Drow square of 20 width and 30height  !
+//Drow traiangle with bases of 10 , 15 and 20.0  !
