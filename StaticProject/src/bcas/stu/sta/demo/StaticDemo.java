@@ -21,3 +21,10 @@ public class StaticDemo {
 	System.out.println("This is ststic block");
     }
 }
+
+
+
+//Import output
+//This is ststic block
+//Static method myCalculation
+//This is static main method
