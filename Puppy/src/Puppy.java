@@ -24,3 +24,10 @@ public class Puppy {
 	
 
 }
+
+
+
+//Import output
+//Name chosen is:tommy
+//Puppy's age is : 2
+//variable value : 2
