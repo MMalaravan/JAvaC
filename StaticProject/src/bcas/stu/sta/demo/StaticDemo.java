@@ -24,7 +24,7 @@ public class StaticDemo {
 
 
 
-Output
+//Import output
 //This is ststic block
 //Static method myCalculation
 //This is static main method
