@@ -5,3 +5,11 @@ public static void main(String[] args) {
 	cal.printsummary();
 }
 }
+
+
+/*
+  sum is 150
+  sub is -50
+  mul is 5000
+  div is 2
+  */
